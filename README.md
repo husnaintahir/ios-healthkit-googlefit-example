@@ -9,7 +9,7 @@ and [react-native-google-fit](https://www.npmjs.com/package/react-native-google-
 
 
 
-To run the app on Adroid requires some extra step; please follow the [instructions](https://github.com/StasDoskalenko/react-native-google-fit/blob/HEAD/docs/INSTALLATION.md#demo-walkthrough-development-setup) for additional setup.
+To run the app on Android requires some extra steps; please follow the [instructions](https://github.com/StasDoskalenko/react-native-google-fit/blob/HEAD/docs/INSTALLATION.md#demo-walkthrough-development-setup) for additional setup.
 
 
 
@@ -40,7 +40,7 @@ yarn android
 ```
 
 
-If you are facing any problem, just open issue, i will try my best to resolve this issue ASAP. Also you can reach me via [Twitter](https://twitter.com/imhusnain1)
+If you are facing any problem, just open an issue, I will try my best to resolve this issue ASAP. Also, you can reach me via [Twitter](https://twitter.com/imhusnain1)
 
 
 ## License
