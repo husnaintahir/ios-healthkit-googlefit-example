@@ -1,4 +1,4 @@
-# Foobar
+# Android Google Fit and iOS HealthKit
 
 This project contains an example of using iOS HealthKit and Google Fit for Android.
 
@@ -38,6 +38,10 @@ Android
 ```
 yarn android
 ```
+
+
+If you are facing any problem, just open issue, i will try my best to resolve this issue ASAP. Also you can reach me via [Twitter](https://twitter.com/imhusnain1)
+
 
 ## License
 [MIT](https://github.com/husnaintahir/ios-healthkit-googlefit-example/blob/main/LICENSE)
