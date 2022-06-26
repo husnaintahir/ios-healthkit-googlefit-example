@@ -1,0 +1,8 @@
+{
+  "global": {
+    "cal_burned": "Calories Burned",
+    "in_active_cals_burned": "In-Active Calories Burned",
+    "workout_cals_burned": "Workout Calories Burned",
+    "bpm": "BPM"
+  }
+}
